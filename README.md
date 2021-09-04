@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dipanshuraz2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WKQ5CUTb6LYZ27AuBrMX7S0yhFBRYizfe-Gf9Pchpgc/edit](https://docs.google.com/document/d/1WKQ5CUTb6LYZ27AuBrMX7S0yhFBRYizfe-Gf9Pchpgc/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1WKQ5CUTb6LYZ27AuBrMX7S0yhFBRYizfe-Gf9Pchpgc](https://docs.google.com/document/d/1WKQ5CUTb6LYZ27AuBrMX7S0yhFBRYizfe-Gf9Pchpgc/edit)
 
 - ⚡ Fun fact **I'm a open university student.**
 
