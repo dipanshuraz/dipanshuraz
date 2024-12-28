@@ -1,17 +1,19 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Deepanshu_Prajapati-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/codersadhu/)](https://www.linkedin.com/in/codersadhu/) [![GitHub followers](https://img.shields.io/github/followers/dipanshuraz?label=Follow&style=social)](https://github.com/dipanshuraz/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Deepanshu_Prajapati-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dipanshuraz2@gmail.com)](mailto:dipanshuraz2@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Deepanshu_Prajapati-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/codersadhu/)](https://www.linkedin.com/in/codersadhu/) [![GitHub followers](https://img.shields.io/github/followers/dipanshuraz?label=Follow&style=social)](https://github.com/dipanshuraz/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Deepanshu_Prajapati-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:dipanshuraz2@gmail.com)](mailto:dipanshuraz2@gmail.com) [![X Badge](https://img.shields.io/badge/-Deepanshu_Prajapati-c14438?style=social&logo=X&logoColor=blue&link=https://x.com/blockC_School
+)](https://x.com/blockC_School) 
 
 <h1 align="center">Hi 👋, I'm Deepanshu Prajapati</h1>
-<h3 align="center">I'm a MERN Full Stack Developer with hands-on experience in designing, developing, and implementing applications and solutions using JavaScript, ReactJS & NodeJS.</h3>
+<h4 align="center">A passionate MERN Full Stack and Web3 Engineer with expertise in building dynamic web applications and decentralized solutions. Skilled in JavaScript, ReactJS, NodeJS, and blockchain technologies, I thrive on creating seamless user experiences and innovative digital solutions.</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshuraz&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshuraz" /> </p>
 
 - 🔭 I’m currently working on [Mr Nomad](https://mrnomad.netlify.app/)
 
-- 🌱 I’m currently learning **Cloud Native & Python.**
+- 🌱 I’m currently learning **Cloud Native & AI.**
 
 - 👨‍💻 All of my projects are available at [codersadhu.netlify.app](codersadhu.netlify.app)
 
-- 💬 Ask me about **javascript, react, nodejs, expressjs**
+- 💬 Ask me about **web3, javascript, react, nodejs, crypto, tokens, cloud**
 
 - 📫 How to reach me **dipanshuraz2@gmail.com**
 
@@ -32,5 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dipanshuraz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dipanshuraz" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshuraz&show_icons=true&locale=en&layout=compact" alt="dipanshuraz" /></p>
